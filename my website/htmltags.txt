@@ -1,0 +1,31 @@
+Certainly! Here's a list of some important HTML tags along with their functions:                                                         |  
+|---------------|------------------------------------------------------------------------------------------------------------------------|
+| `<html>`      | Defines the root of an HTML document.                                                                                  |
+| `<head>`      | Contains metadata about the HTML document, such as title, character encoding, stylesheets, etc.                        |
+| `<title>`     | Specifies the title of the HTML document, which is displayed in the browser's title bar or tab.                        |
+| `<body>`      | Represents the content of an HTML document, including text, images, links, tables, and other elements.                 |
+| `<h1>` to `<h6>` | Defines six levels of headings, with `<h1>` being the highest (most important) and `<h6>` being the lowest.         |
+| `<p>`         | Defines a paragraph of text.                                                                                           |
+| `<a>`         | Creates a hyperlink to another web page or resource.                                                                   |
+| `<img>`       | Inserts an image into the HTML document.                                                                               |
+| `<ul>`        | Represents an unordered (bulleted) list.                                                                               |
+| `<ol>`        | Represents an ordered (numbered) list.                                                                                 |
+| `<li>`        | Defines a list item within an ordered or unordered list.                                                               |
+| `<table>`     | Defines a table with rows (`<tr>`) and cells (`<td>` or `<th>`).                                                       |
+| `<tr>`        | Defines a row in a table.                                                                                              |
+| `<td>`        | Defines a data cell within a table row.                                                                                |
+| `<th>`        | Defines a header cell within a table row or column.                                                                    |
+| `<form>`      | Creates a form for user input, such as text fields, checkboxes, radio buttons, submit buttons, etc.                    |
+| `<input>`     | Creates an input field within a form for various types of user input (text, password, checkbox, radio button, etc.).  
+| `<textarea>`  | Defines a multi-line text input control within a form.                                                                 |
+| `<button>`    | Represents a clickable button within a form or elsewhere on a web page.                                               |
+| `<div>`       | Defines a division or section in an HTML document.                                                                     |
+| `<span>`      | Defines a section within a document or a part of text with a specific style or behavior.                              |
+| `<header>`    | Represents the header section of a document or a section.                                                              |
+| `<footer>`    | Represents the footer section of a document or a section.                                                              |
+| `<nav>`       | Defines a section of navigation links.                                                                                 |
+| `<section>`   | Represents a standalone section within a document.                                                                     |
+| `<article>`   | Represents an independent piece of content within a document, such as a blog post or news article.                    |
+| `<aside>`     | Defines content that is tangentially related to the main content of the document, such as sidebars or pull quotes.    
+| `<style>`     | Contains CSS rules to be applied to the HTML document.                                                                 |
+| `<script>`    | Embeds or links to JavaScript code within an HTML document.                                                            |
