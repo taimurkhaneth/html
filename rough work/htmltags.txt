@@ -48,3 +48,18 @@ Importrant Ancohr tag arritbutes
 | `accesskey` | Creates a keyboard shortcut for the link                    |
 | `aria-*`    | Attributes for enhancing accessibility of the link          |
 | `data-*`    | Custom data attributes for storing additional data          |
+
+
+attributes for ol 
+
+| Attribute   | Functionality                                          |
+|-------------|-------------------------------------------------------|
+| `reversed`  | Specifies that the numbering should be reversed        |
+| `start`     | Specifies the starting value of the list items         |
+| `type`      | Specifies the type of numbering for the list items     |
+| `class`     | Assigns one or more CSS classes to the element         |
+| `id`        | Specifies a unique identifier for the element         |
+| `style`     | Defines inline CSS styles for the element             |
+| `compact`   | Specifies whether the list should be compacted        |
+| `aria-*`    | Attributes for enhancing accessibility of the element |
+| `data-*`    | Custom data attributes for storing additional data    |
