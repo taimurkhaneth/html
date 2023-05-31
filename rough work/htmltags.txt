@@ -29,3 +29,22 @@ Certainly! Here's a list of some important HTML tags along with their functions:
 | `<aside>`     | Defines content that is tangentially related to the main content of the document, such as sidebars or pull quotes.    
 | `<style>`     | Contains CSS rules to be applied to the HTML document.                                                                 |
 | `<script>`    | Embeds or links to JavaScript code within an HTML document.                                                            |
+
+
+
+Importrant Ancohr tag arritbutes 
+
+| Attribute   | Functionality                                                |
+|-------------|-------------------------------------------------------------|
+| `href`      | Specifies the destination URL or target location             |
+| `target`    | Specifies where to open the linked document                 |
+| `download`  | Specifies that the target will be downloaded when clicked   |
+| `rel`       | Specifies the relationship between the current and linked document |
+| `title`     | Provides additional information about the linked resource   |
+| `class`     | Assigns one or more CSS classes to the element               |
+| `id`        | Specifies a unique identifier for the element               |
+| `style`     | Defines inline CSS styles for the element                   |
+| `tabindex`  | Specifies the tabbing order of elements                     |
+| `accesskey` | Creates a keyboard shortcut for the link                    |
+| `aria-*`    | Attributes for enhancing accessibility of the link          |
+| `data-*`    | Custom data attributes for storing additional data          |
